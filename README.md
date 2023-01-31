@@ -4,7 +4,7 @@
     <a href="https://peterp.me">blog</a> .
     <a href="https://peterp.me/talks">talks</a> .
     <a href="https://twitter.com/peterpme">tweets</a> .
-    <a href="https://twitter.com/search?q=(from%3Apeterpme)%20min_faves%3A800&src=typed_query">dank memes</a> .
+    <a href="https://twitter.com/search?q=(from%3Apeterpme)%20min_faves%3A200&src=typed_query">dank tweets</a> .
     <a href="https://instagram.com/peterpme">instagram</a> .
     <a href="https://github.com/sponsors/peterpme">sponsor</a>
   </samp>
