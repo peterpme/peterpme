@@ -3,18 +3,19 @@
     <a href="https://peterp.me/about">me</a> .
     <a href="https://peterp.me">blog</a> .
     <a href="https://peterp.me/talks">talks</a> .
-    <a href="https://twitter.com/peterpme">tweets</a> .
-    <a href="https://twitter.com/search?q=(from%3Apeterpme)%20min_faves%3A200&src=typed_query">dank tweets</a> .
+    <a href="https://x.com/peterpme">tweets</a> .
+    <a href="https://x.com/search?q=(from%3Apeterpme)%20min_faves%3A200&src=typed_query">dank tweets</a> .
     <a href="https://instagram.com/peterpme">instagram</a> .
     <a href="https://github.com/sponsors/peterpme">sponsor</a>
   </samp>
 </p>
 
-
 Hi, I'm Peter! 👋
 
-I'm working on **Backpack 🎒**, a new cross-chain wallet. My focus is getting the experience right on mobile & bringing web3 to a whole new audience. 
+I work on **Backpack 🎒**, a new financial platform that brings a crypto exchange, stock brokerage, and self-custody wallet together. I built the first versions of Backpack's mobile wallet and exchange. Lately, I've been exploring products that only became possible with AI.
 
-Prior to Backpack, I was the co-founder & CTO of [Draftbit](https://draftbit.com) (YC W18)
+You can find what we're building in the [Backpack app](https://backpack.app) and at [backpack.exchange](https://backpack.exchange).
 
-I angel invest in early-stage startups that I'm passionate about. If I'm not working or [tweeting](https://twitter.com/peterpme), I'm likely hanging out with my beautiful fiance, making music or reading.
+Before Backpack, I co-founded [Draftbit](https://draftbit.com) and was its CTO. Draftbit was part of YC's Winter 2018 batch and made it easier to build mobile apps visually in the browser.
+
+I angel invest in early-stage startups that I'm passionate about. If I'm not working or [tweeting](https://twitter.com/peterpme), I'm likely automating my house.
