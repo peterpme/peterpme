@@ -12,9 +12,7 @@
 
 Hi, I'm Peter! 👋
 
-I work on **Backpack 🎒**, a new financial platform that brings a crypto exchange, stock brokerage, and self-custody wallet together. I built the first versions of Backpack's mobile wallet and exchange. Lately, I've been exploring products that only became possible with AI.
-
-You can find what we're building in the [Backpack app](https://backpack.app) and at [backpack.exchange](https://backpack.exchange).
+I built the first versions of Backpack's mobile wallet and exchange. Lately, I've been exploring products that only became possible with AI.
 
 Before Backpack, I co-founded [Draftbit](https://draftbit.com) and was its CTO. Draftbit was part of YC's Winter 2018 batch and made it easier to build mobile apps visually in the browser.
 
