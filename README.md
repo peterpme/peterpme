@@ -14,6 +14,6 @@ Hi, I'm Peter! 👋
 
 I built the first versions of Backpack's mobile wallet and exchange. Lately, I've been exploring products that only became possible with AI.
 
-Before Backpack, I co-founded [Draftbit](https://draftbit.com) and was its CTO. Draftbit was part of YC's Winter 2018 batch and made it easier to build mobile apps visually in the browser.
+I co-founded [Draftbit](https://draftbit.com) and was its CTO. Draftbit was part of YC's Winter 2018 batch and made it easier to build mobile apps visually in the browser.
 
 I angel invest in early-stage startups that I'm passionate about. If I'm not working or [tweeting](https://twitter.com/peterpme), I'm likely automating my house.
